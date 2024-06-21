@@ -1,0 +1,4 @@
+res://World.tscn
+res://tileset.tres
+res://scripts/player.gd
+res://scripts/collision.gd
